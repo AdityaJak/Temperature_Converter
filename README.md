@@ -6,29 +6,29 @@ This is a simple web application that allows users to convert temperatures from 
 
 ## Features
 
-Input validation: Ensures that the user enters a valid temperature within the specified range.
-Real-time conversion: Converts the temperature as the user inputs it.
-Error handling: Provides clear error messages for invalid inputs.
-Stylish user interface: A modern and user-friendly design.
+1. Input validation: Ensures that the user enters a valid temperature within the specified range.
+2. Real-time conversion: Converts the temperature as the user inputs it.
+3. Error handling: Provides clear error messages for invalid inputs.
+4. Stylish user interface: A modern and user-friendly design.
 
 ## Usage
 
-Open the Temp_Convert.html file in your web browser.
-Enter a temperature in Fahrenheit within the range of -250°F to 250°F.
-Click the "Convert" button.
-The equivalent temperature in Celsius will be displayed below the input field.
+1. Open the Temp_Convert.html file in your web browser.
+2. Enter a temperature in Fahrenheit within the range of -250°F to 250°F.
+3. Click the "Convert" button.
+4. The equivalent temperature in Celsius will be displayed below the input field.
 
 ## Technologies Used
 
-HTML
-CSS
-JavaScript
+1. HTML
+2. CSS
+3. JavaScript
 
 ## How to Modify the Code
 
 If you want to make changes to the code or customize the project:
 
-Open the project directory in your code editor.
-Modify the HTML, CSS, or JavaScript files as needed.
-Save your changes.
-Open Temp_Control.html in a web browser to see the updated project.
+1. Open the project directory in your code editor.
+2. Modify the HTML, CSS, or JavaScript files as needed.
+3. Save your changes.
+4. Open Temp_Control.html in a web browser to see the updated project.
